@@ -34,11 +34,11 @@ Exploring the dataset and pre-processing: The descriptive analysis of the data w
 
 performed on the standarised data. The distribution of data in each attribute was visually represented. plotted histograms for all the features. Also, a bar plot was created showing all the features for each country. Features were sorted in ascending order before plotting.
 
-![img1](images\Aspose.Words.ca141ca6-51d7-4c4e-90a9-812e460b9d3b.001.jpeg)
+![img1](images/Aspose.Words.ca141ca6-51d7-4c4e-90a9-812e460b9d3b.001.jpeg)
 
 life\_expec displays a left skewed data distribution. All the remaining features show a right skewed data distribution.
 
-![img2](images\Aspose.Words.ca141ca6-51d7-4c4e-90a9-812e460b9d3b.002.jpeg)
+![img2](images/Aspose.Words.ca141ca6-51d7-4c4e-90a9-812e460b9d3b.002.jpeg)
 
 An example of a bar plot, showing the child\_mort rate in each country. Countries with the lowest
 
